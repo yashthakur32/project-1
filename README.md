@@ -26,5 +26,5 @@ Welcome to the [Restaurant Name] Food Website! 🎉 This project is a digital di
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DNXEMPIRE-1/restaurant-website.git
+   git clonehttps://github.com/yashthakur32
    cd restaurant-website
